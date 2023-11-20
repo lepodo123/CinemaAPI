@@ -1,0 +1,17 @@
+com\cinema\entity\TicketEntity.class
+com\cinema\converter\FilmConverter.class
+com\cinema\services\IFilmService.class
+com\cinema\entity\CustomerEntity.class
+com\cinema\entity\MovieScheduleEntity.class
+com\cinema\entity\MovieThreaterEntity.class
+com\cinema\entity\CategoryEntity.class
+com\cinema\entity\VoucherEntity.class
+com\cinema\api\FilmAPI.class
+com\cinema\Applicaton.class
+com\cinema\entity\AccountEntity.class
+com\cinema\entity\FilmEntity.class
+com\cinema\services\impl\FilmService.class
+com\cinema\repository\FilmRepository.class
+com\cinema\api\output\FilmOutput.class
+com\cinema\dto\FilmDTO.class
+com\cinema\entity\FoodsEntity.class

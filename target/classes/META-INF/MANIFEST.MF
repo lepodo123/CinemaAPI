@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: testing
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Admin
+Implementation-Vendor-Id: com.learing
+Build-Jdk: 1.8.0_302
+Implementation-URL: https://projects.spring.io/spring-boot/testing/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
